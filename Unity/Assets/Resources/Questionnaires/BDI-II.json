@@ -1,0 +1,258 @@
+{
+    "en": {
+        "1. Sadness": {
+            "0": "I do not feel sad.",
+            "1": "I feel sad much of the time.",
+            "2": "I am sad all the time.",
+            "3": "I am so sad or unhappy that I can't stand it."
+        },
+        "2. Pessimism": {
+            "0": "I am not discouraged about my future.",
+            "1": "I feel more discouraged about my future than I used to.",
+            "2": "I do not expect things to work out for me.",
+            "3": "I feel my future is hopeless and will only get worse."
+        },
+        "3. Past Failure": {
+            "0": "I do not feel like a failure.",
+            "1": "I have failed more than I should have.",
+            "2": "As I look back, I see a lot of failures.",
+            "3": "I feel I am a total failure as a person."
+        },
+        "4. Loss of Pleasure": {
+            "0": "I get as much pleasure as I ever did from the things I enjoy.",
+            "1": "I don't enjoy things as much as I used to",
+            "2": "I get very little pleasure from the things I used to enjoy.",
+            "3": "I can't get any pleasure from the things I used to enjoy."
+        },
+        "5. Guilty Feelings": {
+            "0": "I don't feel particularly guilty.",
+            "1": "I feel guilty over many things I have done or should have done",
+            "2": "I feel quite guilty most of the time.",
+            "3": "I feel guilty all of the time."
+        },
+        "6. Punishment Feelings": {
+            "0": "I don't feel I am being punished.",
+            "1": "I feel I may be punished.",
+            "2": "I expect to be punished.",
+            "3": "I feel I am being punished. "
+        },
+        "7. Self-Dislike": {
+            "0": "I feel the same about myself as ever.",
+            "1": "I have lost confidence in myself.",
+            "2": "I am disappointed in myself.",
+            "3": "I dislike myself."
+        },
+        "8. Self-Criticalness": {
+            "0": "I don't criticize or blame myself more than usual.",
+            "1": "I am more critical of myself than I used to be.",
+            "2": "I criticize myself for all of my faults.",
+            "3": "I blame myself for everything bad that happens."
+        },
+        "9. Suicidal Thoughts or Wishes": {
+            "0": "I don't have any thoughts of killing myself.",
+            "1": "I have thoughts of killing myself, but I would not carry them out.",
+            "2": "I would like to kill myself.",
+            "3": "I would kill myself if I had the chance."
+        },
+        "10. Crying": {
+            "0": "I don't cry anymore than I used to.",
+            "1": "I cry more than I used to.",
+            "2": "I cry over every little thing.",
+            "3": "I feel like crying, but I can't."
+        },
+        "11. Agitation": {
+            "0": "I am no more restless or wound up than usual.",
+            "1": "I feel more restless or wound up than usual.",
+            "2": "I am so restless or agitated, it's hard to stay still.",
+            "3": "I am so restless or agitated that I have to keep moving or doing something."
+        },
+        "12. Loss of Interest": {
+            "0": "I have not lost interest in other people or activities.",
+            "1": "I am less interested in other people or things than before.",
+            "2": "I have lost most of my interest in other people or things.",
+            "3": "It's hard to get interested in anything."
+        },
+        "13. Indecisiveness": {
+            "0": "I make decisions about as well as ever.",
+            "1": "I find it more difficult to make decisions than usual.",
+            "2": "I have much greater difficulty in making decisions than I used to",
+            "3": "I have trouble making any decisions."
+        },
+        "14. Worthlessness": {
+            "0": "I do not feel I am worthless.",
+            "1": "I don't consider myself as worthwhile and useful as I used to.",
+            "2": "I feel more worthless as compared to others.",
+            "3": "I feel utterly worthless."
+        },
+        "15. Loss of Energy": {
+            "0": "I have as much energy as ever.",
+            "1": "I have less energy than I used to have.",
+            "2": "I don't have enough energy to do very much.",
+            "3": "I don't have enough energy to do anything."
+        },
+        "16. Changes in Sleeping Pattern": {
+            "0": "I have not experienced any change in my sleeping.",
+            "1": "I sleep somewhat more or less than usual.",
+            "2": "I sleep a lot more or a lot less than usual.",
+            "3": "I sleep most of the day or wake up 1-2 hours early and can't get back to sleep."
+        },
+        "17. Irritability": {
+            "0": "I am not more irritable than usual.",
+            "1": "I am more irritable than usual.",
+            "2": "I am much more irritable than usual.",
+            "3": "I am irritable all the time."
+        },
+        "18. Changes in Appetite": {
+            "0": "I have not experienced any change in my appetite.",
+            "1": "My appetite is somewhat less or somewhat greater than usual.",
+            "2": "My appetite is much less or much greater than usual.",
+            "3": "I have no appetite at all or crave food all the time."
+        },
+        "19. Concentration Difficulty": {
+            "0": "I can concentrate as well as ever.",
+            "1": "I can't concentrate as well as usual.",
+            "2": "It's hard to keep my mind on anything for very long.",
+            "3": "I find I can't concentrate on anything."
+        },
+        "20. Tiredness or Fatigue": {
+            "0": "I am no more tired or fatigued than usual.",
+            "1": "I get more tired or fatigued more easily than usual.",
+            "2": "I am too tired or fatigued to do a lot of the things I used to do.",
+            "3": "I am too tired or fatigued to do most of the things I used to do"
+        },
+        "21. Loss of Interest in Sex": {
+            "0": "I have not noticed any recent change in my interest in sex.",
+            "1": "I am less interested in sex than I used to be.",
+            "2": "I am much less interested in sex now.",
+            "3": "I have lost interest in sex completely."
+        }
+    },
+    "ch": {
+        "1. 悲傷": {
+            "0": "我不覺得悲傷。",
+            "1": "我大部分時間都覺得悲傷。",
+            "2": "我一直覺得悲傷。",
+            "3": "我感到非常悲傷或不開心，以至於無法忍受。"
+        },
+        "2. 悲觀": {
+            "0": "我對未來不感到沮喪。",
+            "1": "我對未來感到比以前更沮喪。",
+            "2": "我不指望事情會對我有利。",
+            "3": "我覺得我的未來是無望的，只會變得更糟。"
+        },
+        "3. 過去的失敗": {
+            "0": "我不覺得自己是個失敗者。",
+            "1": "我覺得我失敗的次數比應該有的多。",
+            "2": "回顧過去，我看到很多失敗。",
+            "3": "我覺得自己完全是個失敗者。"
+        },
+        "4. 失去樂趣": {
+            "0": "我從我喜歡的事情中得到的樂趣和以前一樣多。",
+            "1": "我不再像以前那樣享受事情了。",
+            "2": "我從以前喜歡的事情中得到的樂趣非常少。",
+            "3": "我不能從以前喜歡的事情中得到任何樂趣。"
+        },
+        "5. 內疚感": {
+            "0": "我不特別覺得內疚。",
+            "1": "我對許多事情感到內疚，無論是做過的還是應該做的。",
+            "2": "我大部分時間都覺得很內疚。",
+            "3": "我一直感到內疚。"
+        },
+        "6. 受懲罰感": {
+            "0": "我不覺得自己在受懲罰。",
+            "1": "我覺得自己可能會受到懲罰。",
+            "2": "我預期會受到懲罰。",
+            "3": "我覺得自己在受懲罰。"
+        },
+        "7. 自我厭惡": {
+            "0": "我對自己感覺和以前一樣。",
+            "1": "我對自己失去了信心。",
+            "2": "我對自己感到失望。",
+            "3": "我不喜歡自己。"
+        },
+        "8. 自我批評": {
+            "0": "我對自己的批評或責備沒有比平時多。",
+            "1": "我對自己的批評比以前多了。",
+            "2": "我批評自己所有的錯誤。",
+            "3": "我為所有壞事責怪自己。"
+        },
+        "9. 自殺的想法或願望": {
+            "0": "我沒有任何自殺的想法。",
+            "1": "我有自殺的想法，但我不會付諸實施。",
+            "2": "我想自殺。",
+            "3": "如果有機會，我會自殺。"
+        },
+        "10. 哭泣": {
+            "0": "我沒有比以前更多的哭泣。",
+            "1": "我比以前哭得多了。",
+            "2": "我為每一件小事都哭。",
+            "3": "我想哭，但我哭不出來。"
+        },
+        "11. 焦躁": {
+            "0": "我沒有比平時更煩躁或緊張。",
+            "1": "我覺得比平時更煩躁或緊張。",
+            "2": "我非常煩躁或緊張，很難安靜下來。",
+            "3": "我非常煩躁或緊張，以至於必須不停地移動或做事情。"
+        },
+        "12. 失去興趣": {
+            "0": "我對他人或活動的興趣沒有減少。",
+            "1": "我對他人或事情的興趣比以前少了。",
+            "2": "我對大多數人或事情失去了興趣。",
+            "3": "我對任何事情都難以產生興趣。"
+        },
+        "13. 優柔寡斷": {
+            "0": "我做決定和以前一樣好。",
+            "1": "我發現比平時更難做決定。",
+            "2": "我做決定比以前困難得多。",
+            "3": "我做任何決定都有困難。"
+        },
+        "14. 無價值感": {
+            "0": "我不覺得自己沒有價值。",
+            "1": "我覺得自己不像以前那樣有價值和有用。",
+            "2": "我覺得自己比其他人更無價值。",
+            "3": "我覺得自己完全沒有價值。"
+        },
+        "15. 失去精力": {
+            "0": "我的精力和以前一樣多。",
+            "1": "我的精力比以前少了。",
+            "2": "我沒有足夠的精力做很多事情。",
+            "3": "我沒有足夠的精力做任何事情。"
+        },
+        "16. 睡眠模式的變化": {
+            "0": "我的睡眠沒有變化。",
+            "1": "我比平時稍微多睡或少睡。",
+            "2": "我比平時多睡或少睡很多。",
+            "3": "我大部分時間都在睡覺或比平時早醒1-2小時且無法再入睡。"
+        },
+        "17. 易怒": {
+            "0": "我沒有比平時更易怒。",
+            "1": "我比平時更易怒。",
+            "2": "我比平時更易怒得多。",
+            "3": "我一直感到易怒。"
+        },
+        "18. 食慾變化": {
+            "0": "我的食慾沒有變化。",
+            "1": "我的食慾比平時稍微少了一些或多了一些。",
+            "2": "我的食慾比以前少了很多或多了很多。",
+            "3": "我完全沒有食慾或一直想吃東西。"
+        },
+        "19. 注意力難以集中": {
+            "0": "我的注意力和以前一樣好。",
+            "1": "我的注意力不如平時好。",
+            "2": "很難長時間集中注意力。",
+            "3": "我發現自己無法集中注意力。"
+        },
+        "20. 疲勞或疲倦": {
+            "0": "我沒有比平時更累或疲倦。",
+            "1": "我比平時更容易累或疲倦。",
+            "2": "我太累或疲倦，無法做很多以前能做的事情。",
+            "3": "我太累或疲倦，無法做大多數以前能做的事情。"
+        },
+        "21. 對性生活失去興趣": {
+            "0": "我沒有注意到最近對性生活的興趣變化。",
+            "1": "我對性生活的興趣不如以前。",
+            "2": "我現在對性生活的興趣少了很多。",
+            "3": "我對性生活完全失去了興趣。"
+        }
+    }
+}

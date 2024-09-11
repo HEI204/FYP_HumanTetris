@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09e6efcdbfd523a40a7197a336d5959d, type: 3}
+  m_Name: ChatLog_20240613_211918
+  m_EditorClassIdentifier: 
+  Entries:
+  - Id: 33af415f-8b1f-4e30-a627-1e5d5702354b
+    Prompt: 'add a ok button
+
+
+      I am selecting gameObjects ''Setting Menu''. '
+    Response: 'Create GameObject OK Button from prefab Button
+
+      Set OK Button
+      > FlexalonObject > WidthType > 2
+
+      Add Component FlexalonImage to OK Button
+
+      Set
+      OK Button > FlexalonObject > HeightType > 2
+
+      Set OK Button > FlexalonObject
+      > MinWidthType > 1
+
+      Set OK Button > FlexalonObject > MinHeightType >
+      1
+
+      Set OK Button > FlexalonStyle > TextMeshProUGUI > alignment > 514
+
+      Set
+      OK Button > FlexalonObject > Width > 80
+
+      Set OK Button > FlexalonObject
+      > WidthType > 0
+
+      Set OK Button > FlexalonObject > Height > 35
+
+      Set
+      OK Button > FlexalonObject > HeightType > 0
+
+      Set OK Button > FlexalonStyle
+      > Image > sprite > 1e6d1fa3cb6e1bd48825cac2a246adfa
+
+      Set OK Button >
+      Image > type > 1
+
+      Set OK Button > FlexalonStyle > Image > color > #FFFFFFFF
+
+      Set
+      OK Button > FlexalonStyle > Image > color > #477BDBFF
+
+      Move GameObject
+      OK Button to Setting Menu at index 2
+
+      Add Component FlexalonObject to
+      OK Button
+
+      Set OK Button > FlexalonObject > Width > 80
+
+      Set OK
+      Button > FlexalonObject > WidthType > 0
+
+      Set OK Button > FlexalonObject
+      > Height > 35
+
+      Set OK Button > FlexalonObject > HeightType > 0
+
+      Create
+      GameObject Text (TMP)
+
+      Add Component TextMeshProUGUI to Text (TMP)
+
+      Add
+      Component FlexalonObject to Text (TMP)
+
+      Set Text (TMP) > FlexalonObject
+      > SkipLayout > true
+
+      Set Text (TMP) > RectTransform > anchorMin.x > 0
+
+      Set
+      Text (TMP) > RectTransform > anchorMax.x > 0
+
+      Set Text (TMP) > RectTransform
+      > pivot.x > -0
+
+      Set Text (TMP) > RectTransform > anchorMin.y > 1
+
+      Set
+      Text (TMP) > RectTransform > anchorMax.y > 1
+
+      Set Text (TMP) > RectTransform
+      > pivot.y > 1
+
+      Set Text (TMP) > RectTransform > anchorMax.x > 1
+
+      Set
+      Text (TMP) > RectTransform > anchorMin.y > 0
+
+      Set Text (TMP) > FlexalonStyle
+      > TextMeshProUGUI > alignment > 514
+
+      Move GameObject Text (TMP) to OK
+      Button at index 0
+
+      Set OK Button > FlexalonFlexibleLayout > Direction
+      > 3
+
+      Set OK Button > FlexalonFlexibleLayout > HorizontalAlign > 1
+
+      Set
+      OK Button > FlexalonFlexibleLayout > VerticalAlign > 2
+
+      Set OK Button
+      > FlexalonFlexibleLayout > VerticalInnerAlign > 2
+
+      Set OK Button > FlexalonFlexibleLayout
+      > GapType > 0
+
+      Set OK Button > FlexalonFlexibleLayout > WrapGapType >
+      0
+
+      Set Text (TMP) > TextMeshProUGUI > text > OK
+
+      Create GameObject
+      TMP SubMeshUI [Quicksand-VariableFont_wght Atlas Material + LiberationSans
+      SDF Atlas]
+
+      Add Component RectTransform to TMP SubMeshUI [Quicksand-VariableFont_wght
+      Atlas Material + LiberationSans SDF Atlas]
+
+      Add Component FlexalonObject
+      to TMP SubMeshUI [Quicksand-VariableFont_wght Atlas Material + LiberationSans
+      SDF Atlas]
+
+      Set TMP SubMeshUI [Quicksand-VariableFont_wght Atlas Material
+      + LiberationSans SDF Atlas] > FlexalonObject > SkipLayout > true
+
+      Set
+      TMP SubMeshUI [Quicksand-VariableFont_wght Atlas Material + LiberationSans
+      SDF Atlas] > RectTransform > anchorMin.x > 0
+
+      Set TMP SubMeshUI [Quicksand-VariableFont_wght
+      Atlas Material + LiberationSans SDF Atlas] > RectTransform > anchorMax.x >
+      0
+
+      Set TMP SubMeshUI [Quicksand-VariableFont_wght Atlas Material + LiberationSans
+      SDF Atlas] > RectTransform > pivot.x > -0
+
+      Set TMP SubMeshUI [Quicksand-VariableFont_wght
+      Atlas Material + LiberationSans SDF Atlas] > RectTransform > anchorMin.y >
+      1
+
+      Set TMP SubMeshUI [Quicksand-VariableFont_wght Atlas Material + LiberationSans
+      SDF Atlas] > RectTransform > anchorMax.y > 1
+
+      Set TMP SubMeshUI [Quicksand-VariableFont_wght
+      Atlas Material + LiberationSans SDF Atlas] > RectTransform > pivot.y > 1
+
+      Set
+      TMP SubMeshUI [Quicksand-VariableFont_wght Atlas Material + LiberationSans
+      SDF Atlas] > RectTransform > anchorMax.x > 1
+
+      Set TMP SubMeshUI [Quicksand-VariableFont_wght
+      Atlas Material + LiberationSans SDF Atlas] > RectTransform > anchorMin.y >
+      0
+
+      Move GameObject TMP SubMeshUI [Quicksand-VariableFont_wght Atlas Material
+      + LiberationSans SDF Atlas] to OK Button at index 1'
+  - Id: cd188a0a-fd47-4ecf-b35e-7d6a7e5726af
+    Prompt: 'move it be center and lower
+
+
+      I am selecting gameObjects ''OK
+      Button''. '
+    Response: 'Set OK Button > FlexalonObject > SkipLayout > true
+
+      Set OK Button
+      > RectTransform > anchorMin.x > 0
+
+      Set OK Button > RectTransform > anchorMax.x
+      > 0
+
+      Set OK Button > RectTransform > pivot.x > -0
+
+      Set OK Button
+      > RectTransform > anchoredPosition.x > 0
+
+      Set OK Button > RectTransform
+      > anchorMin.y > 1
+
+      Set OK Button > RectTransform > anchorMax.y > 1
+
+      Set
+      OK Button > RectTransform > pivot.y > 1'
+  - Id: bf76f4fe-ff5d-4c25-9c8b-4b9eeb50f81d
+    Prompt: 'lower '
+    Response: 'Set OK Button > FlexalonObject > SkipLayout > true
+
+      Set OK Button
+      > RectTransform > anchorMin.x > 0
+
+      Set OK Button > RectTransform > anchorMax.x
+      > 0
+
+      Set OK Button > RectTransform > pivot.x > -0
+
+      Set OK Button
+      > RectTransform > anchorMin.y > 1
+
+      Set OK Button > RectTransform > anchorMax.y
+      > 1
+
+      Set OK Button > RectTransform > pivot.y > 1
+
+      Set OK Button
+      > RectTransform > anchorMin.y > 0
+
+      Set OK Button > RectTransform > anchorMax.y
+      > 0
+
+      Set OK Button > RectTransform > pivot.y > 0
+
+      Set OK Button
+      > RectTransform > anchoredPosition.y > 20'
+  - Id: 58adb1c6-b15b-4800-97e0-19d9a9a938e2
+    Prompt: upper a bit
+    Response: Set OK Button > RectTransform > pivot.y > -0.25
+  - Id: 332dd8af-ceea-4bee-bea8-9127b9c918e4
+    Prompt: upper
+    Response: 'Set OK Button > RectTransform > pivot.y > 0
+
+      Set OK Button >
+      RectTransform > pivot.y > -0.33333334'
+  - Id: 1428377f-920b-4696-9e92-f443838996ff
+    Prompt: more upper
+    Response: 'Set OK Button > RectTransform > pivot.y > 0
+
+      Set OK Button >
+      RectTransform > pivot.y > -0.5'
+  - Id: c1a73b3d-b239-46bb-8537-8ebe89276b29
+    Prompt: upper more a lot
+    Response: '
+
+      <color=white>// I''m sorry, I cannot make the element more
+      upper.</color>
+
+'

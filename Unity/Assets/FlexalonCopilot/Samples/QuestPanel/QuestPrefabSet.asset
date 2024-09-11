@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74e2c9b31dbd7be429f0d0d317eec3a8, type: 3}
+  m_Name: QuestPrefabSet
+  m_EditorClassIdentifier: 
+  _panelPrefab: {fileID: 8370858537498018692, guid: 760322240b472df45ac05c8b1eba5a21, type: 3}
+  _imagePrefab: {fileID: 16991503616598566, guid: a9bab691273f07848a51ddfa17508a4e, type: 3}
+  _buttonPrefab: {fileID: 662529412315200951, guid: c1f735c5edcb708409d125ceabc8e5a0, type: 3}
+  _togglePrefab: {fileID: 7787596167897286434, guid: 167e26f27ce9f824e989a79448529431, type: 3}
+  _sliderPrefab: {fileID: 1176153569621754223, guid: f447fb08b32a15446a57cde32477da70, type: 3}
+  _horizontalSrollbarPrefab: {fileID: 2758479432634927521, guid: 2169881f8bc83b44c9053af7bf76cccc, type: 3}
+  _verticalSrollbarPrefab: {fileID: 592130746697202914, guid: 4c7b384ba0885cf49ad70d0f79664a60, type: 3}
+  _scrollRectPrefab: {fileID: 5391145161751852003, guid: 165ceea7499d9874384e2d26a922239e, type: 3}
+  _inputFieldPrefab: {fileID: 5824695486024159888, guid: e25089b54ccab0c408d6db79395e949d, type: 3}
+  _dropdownPrefab: {fileID: 6996073694854645695, guid: c133fd0447cfc7344a7e1531844f8434, type: 3}

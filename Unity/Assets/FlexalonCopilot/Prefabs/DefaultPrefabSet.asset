@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74e2c9b31dbd7be429f0d0d317eec3a8, type: 3}
+  m_Name: DefaultPrefabSet
+  m_EditorClassIdentifier: 
+  _panelPrefab: {fileID: 8370858537498018692, guid: e18c59893a2d86b46af7e5cd6c7ad001, type: 3}
+  _imagePrefab: {fileID: 16991503616598566, guid: a9bab691273f07848a51ddfa17508a4e, type: 3}
+  _buttonPrefab: {fileID: 7480155967872323433, guid: 6889738f37e91574cb6da3263bb23b8f, type: 3}
+  _togglePrefab: {fileID: 764327273171383145, guid: 97fe5f3f37104134e9aabf05668819cc, type: 3}
+  _sliderPrefab: {fileID: 8478932902152598276, guid: 5cde3d813d7bb4d4ba949ebcb600772f, type: 3}
+  _horizontalSrollbarPrefab: {fileID: 7731423812364642247, guid: 5b84e273f40f46b438dfb23cbd69ac7e, type: 3}
+  _verticalSrollbarPrefab: {fileID: 6227428855177950206, guid: 428902df8cd544f43a463a8601d766a2, type: 3}
+  _scrollRectPrefab: {fileID: 2965714776473691565, guid: 642412e67d423d74b8a35979d0ee07a5, type: 3}
+  _inputFieldPrefab: {fileID: 2171968290435261563, guid: 0846555c384da0b418c90c28c60c43a1, type: 3}
+  _dropdownPrefab: {fileID: 1117223791722251309, guid: 45190f7605132eb41b9d039f72d414f3, type: 3}

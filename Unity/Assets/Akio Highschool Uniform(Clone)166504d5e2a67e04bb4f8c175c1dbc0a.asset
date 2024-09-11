@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f1260b785da3e24ebe737764cc33de0, type: 3}
+  m_Name: Akio Highschool Uniform(Clone)166504d5e2a67e04bb4f8c175c1dbc0a
+  m_EditorClassIdentifier: 
+  note: 
+  parentCalibrationData:
+  - bone: 14
+    data:
+      parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Right
+        shoulder/Right arm/
+      childn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Right
+        shoulder/Right arm/Right elbow/
+      tparentn: PipeServer/Body Parent/RIGHT_SHOULDER/
+      tchildn: PipeServer/Body Parent/RIGHT_ELBOW/
+      initialDir: {x: -0.985333, y: -0.11336421, z: -0.12754355}
+      initialRotation: {x: -0.4999998, y: 0.5000001, z: 0.49999988, w: 0.50000006}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 16
+    data:
+      parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Right
+        shoulder/Right arm/Right elbow/
+      childn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Right
+        shoulder/Right arm/Right elbow/Right wrist/
+      tparentn: PipeServer/Body Parent/RIGHT_ELBOW/
+      tchildn: PipeServer/Body Parent/RIGHT_WRIST/
+      initialDir: {x: -0.9824932, y: -0.18620168, z: 0.0059989193}
+      initialRotation: {x: -0.5004384, y: 0.49956623, z: 0.49955615, w: 0.5004386}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 2
+    data:
+      parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Right leg/
+      childn: Akio Highschool Uniform(Clone)/Armature/Hips/Right leg/Right knee/
+      tparentn: PipeServer/Body Parent/RIGHT_HIP/
+      tchildn: PipeServer/Body Parent/RIGHT_KNEE/
+      initialDir: {x: -0.062032998, y: -0.9973764, z: -0.03731423}
+      initialRotation: {x: -0.000000020355776, y: -0.010349423, z: -0.9999464, w: 0.000000019819973}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 4
+    data:
+      parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Right leg/Right knee/
+      childn: Akio Highschool Uniform(Clone)/Armature/Hips/Right leg/Right knee/Right
+        ankle/
+      tparentn: PipeServer/Body Parent/RIGHT_KNEE/
+      tchildn: PipeServer/Body Parent/RIGHT_ANKLE/
+      initialDir: {x: 0.029838761, y: -0.90111774, z: 0.43254656}
+      initialRotation: {x: -0.00003319036, y: -0.030582935, z: -0.9995322, w: 0.000033189226}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 13
+    data:
+      parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Left
+        shoulder/Left arm/
+      childn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Left
+        shoulder/Left arm/Left elbow/
+      tparentn: PipeServer/Body Parent/LEFT_SHOULDER/
+      tchildn: PipeServer/Body Parent/LEFT_ELBOW/
+      initialDir: {x: 0.854837, y: -0.334734, z: -0.39649314}
+      initialRotation: {x: 0.49999994, y: 0.4999999, z: 0.5000001, w: -0.5}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 15
+    data:
+      parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Left
+        shoulder/Left arm/Left elbow/
+      childn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Left
+        shoulder/Left arm/Left elbow/Left wrist/
+      tparentn: PipeServer/Body Parent/LEFT_ELBOW/
+      tchildn: PipeServer/Body Parent/LEFT_WRIST/
+      initialDir: {x: 0.9167843, y: -0.0007530193, z: -0.39938194}
+      initialRotation: {x: 0.5004385, y: 0.49956602, z: 0.49955636, w: -0.50043845}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 1
+    data:
+      parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Left leg/
+      childn: Akio Highschool Uniform(Clone)/Armature/Hips/Left leg/Left knee/
+      tparentn: PipeServer/Body Parent/LEFT_HIP/
+      tchildn: PipeServer/Body Parent/LEFT_KNEE/
+      initialDir: {x: -0.18086107, y: -0.9455651, z: -0.27054742}
+      initialRotation: {x: 0.000000020355552, y: -0.010349423, z: -0.9999464, w: -0.000000019819977}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  - bone: 3
+    data:
+      parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Left leg/Left knee/
+      childn: Akio Highschool Uniform(Clone)/Armature/Hips/Left leg/Left knee/Left
+        ankle/
+      tparentn: PipeServer/Body Parent/LEFT_KNEE/
+      tchildn: PipeServer/Body Parent/LEFT_ANKLE/
+      initialDir: {x: 0.13422848, y: -0.9169418, z: 0.3757663}
+      initialRotation: {x: 0.000033190354, y: -0.030582935, z: -0.9995322, w: -0.000033189222}
+      targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  spineUpDown:
+    parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/
+    childn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Neck/
+    tparentn: VirtualHip/
+    tchildn: VirtualNeck/
+    initialDir: {x: -0.072102666, y: 0.9868664, z: -0.14455439}
+    initialRotation: {x: 0.0000000015210456, y: 0.99985373, z: -0.017101169, w: -0.0000000015210455}
+    targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  hipsTwist:
+    parentn: Akio Highschool Uniform(Clone)/Armature/Hips/
+    childn: Akio Highschool Uniform(Clone)/Armature/Hips/
+    tparentn: PipeServer/Body Parent/RIGHT_HIP/
+    tchildn: PipeServer/Body Parent/LEFT_HIP/
+    initialDir: {x: 0.95578873, y: 0.028382288, z: -0.29268152}
+    initialRotation: {x: -0, y: 1, z: -0, w: 0}
+    targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  chest:
+    parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/
+    childn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/
+    tparentn: PipeServer/Body Parent/RIGHT_HIP/
+    tchildn: PipeServer/Body Parent/LEFT_HIP/
+    initialDir: {x: 0.95578873, y: 0.028382288, z: -0.29268152}
+    initialRotation: {x: -0.000000005506713, y: 0.9977373, z: 0.06723407, w: 0.0000000055067146}
+    targetRotation: {x: 0, y: 0, z: 0, w: 0}
+  head:
+    parentn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Neck/
+    childn: Akio Highschool Uniform(Clone)/Armature/Hips/Spine/Chest/Upper Chest/Neck/Head/
+    tparentn: VirtualNeck/
+    tchildn: PipeServer/Body Parent/NOSE/
+    initialDir: {x: 0.10673327, y: 0.4468329, z: -0.88822764}
+    initialRotation: {x: 0.0000000046762394, y: 0.9983057, z: -0.05818811, w: -0.0000000046762367}
+    targetRotation: {x: 0, y: 0, z: 0, w: 0}

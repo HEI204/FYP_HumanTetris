@@ -1,0 +1,27 @@
+{
+    "name": "FlexalonCopilot",
+    "rootNamespace": "",
+    "references": [
+        "Flexalon",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "",
+            "define": "UNITY_TMPRO"
+        },
+        {
+            "name": "com.unity.modules.ui",
+            "expression": "",
+            "define": "UNITY_UI"
+        }
+    ],
+    "noEngineReferences": false
+}
